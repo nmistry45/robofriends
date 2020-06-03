@@ -6,6 +6,6 @@ const Scroll = (props) => {
 			{props.children}
 		</div>
 	);
-}
+};
 
 export default Scroll;
